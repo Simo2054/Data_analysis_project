@@ -3,4 +3,7 @@
 This is a project that I've done with a few other colleagues from faculty, where we had to import a set of data and do some data analysis tasks.
 <br />
 The dataset is imported from https://www.kaggle.com/datasets/nevildhinoja/e-commerce-sales-prediction-dataset 
-
+<br />
+<br />
+# Analyzes performed:
+* reading the csv file using ```sh pandas``` library
